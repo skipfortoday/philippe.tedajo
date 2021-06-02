@@ -26,7 +26,7 @@ const Header = ({ onToggleSound, isPlaying }) => {
     <div style={{ height: "10vh" }} className="px-10 flex justify-between">
       <div className="flex items-center">
         <ActiveLink activeClassName="text-third" href="/">
-          <div className="text-4xl cursor-pointer">P.</div>
+          <div className="text-4xl cursor-pointer">R.</div>
         </ActiveLink>
 
         <div className="ml-6 flex cursor-pointer mt-2" onClick={toggleTheme}>

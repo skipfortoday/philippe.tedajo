@@ -10,11 +10,11 @@ const Overview = () => {
     {
       content: {
         title: "Project 1",
-        link: "#",
+        link: "",
       },
     },
-    { content: { title: "Project 2", link: "#" } },
-    { content: { title: "Project 2", link: "#" } },
+    { content: { title: "Project 2", link: "" } },
+    { content: { title: "Project 2", link: "" } },
   ];
 
   const overviewList = overviews.map((project, index) => (
