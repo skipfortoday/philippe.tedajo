@@ -1,10 +1,10 @@
 import Head from "next/head";
 
 const tags = {
-  title: "PhilippeTedajo",
+  title: "Rizqi Pratama",
   description:
     "Software engineer | Passionate Learner | Typescript | React | Node. Working as a professional Front-end developer",
-  url: "https://philippetedajo.vercel.app",
+  url: "https://rizqipratamar.vercel.app",
 };
 
 const SeoTags = () => {

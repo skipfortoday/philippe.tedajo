@@ -9,12 +9,12 @@ const Overview = () => {
   const overviews = [
     {
       content: {
-        title: "Nextwind",
-        link: "https://nextwind-snowy.vercel.app/",
+        title: "Project 1",
+        link: "#",
       },
     },
-    { content: { title: "Codetree", link: "https://codetree.vercel.app/" } },
-    { content: { title: "Rt", link: "https://www.rosine.tedajo.com/" } },
+    { content: { title: "Project 2", link: "#" } },
+    { content: { title: "Project 2", link: "#" } },
   ];
 
   const overviewList = overviews.map((project, index) => (

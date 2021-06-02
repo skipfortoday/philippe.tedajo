@@ -10,19 +10,19 @@ const Footer = () => {
     >
       <ul className="flex flex-col text-center sm:flex-row hidden md:block">
         <li>
-          <p className="mr-2.5 lg:mr-10">Philippe Tedajo</p>
+          <p className="mr-2.5 lg:mr-10">Rizqi Pratama</p>
         </li>
       </ul>
       <ul className="flex text-center ">
         <p className="mr-2.5 lg:mr-10 cursor-pointer">
-          <Link href="https://github.com/philippetedajo">
+          <Link href="https://github.com/skipfortoday">
             <a target="_blank" rel="noreferrer noopener">
               <AiOutlineGithub size={20} />
             </a>
           </Link>
         </p>
         <p className="mr-2.5 lg:mr-10 cursor-pointer">
-          <Link href="https://www.linkedin.com/">
+          <Link href="https://www.linkedin.com/in/rizqi-ramadhani-a06967170/">
             <a target="_blank" rel="noreferrer noopener">
               <AiFillLinkedin size={20} />
             </a>
