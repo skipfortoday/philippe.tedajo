@@ -14,7 +14,7 @@ const Overview = () => {
       },
     },
     { content: { title: "Project 2", link: "" } },
-    { content: { title: "Project 2", link: "" } },
+    { content: { title: "Project 3", link: "" } },
   ];
 
   const overviewList = overviews.map((project, index) => (
