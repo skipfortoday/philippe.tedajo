@@ -9,8 +9,8 @@ const Overview = () => {
   const overviews = [
     {
       content: {
-        title: "Project 1",
-        link: "",
+        title: "Next Tailwind Blog",
+        link: "https://rizqi-next-tailwind.vercel.app/",
       },
     },
     { content: { title: "Project 2", link: "" } },
