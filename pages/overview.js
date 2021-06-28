@@ -13,8 +13,12 @@ const Overview = () => {
         link: "https://rizqi-next-tailwind.vercel.app/",
       },
     },
-    { content: { title: "Project 2", link: "" } },
-    { content: { title: "Project 3", link: "" } },
+    {
+      content: { title: "Next To Do", link: "https://rnext-redux.vercel.app/" },
+    },
+    {
+      content: { title: "Pokedex", link: "https://rizqi-pokedex.vercel.app/" },
+    },
   ];
 
   const overviewList = overviews.map((project, index) => (
